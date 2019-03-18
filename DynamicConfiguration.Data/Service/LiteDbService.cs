@@ -22,9 +22,9 @@ namespace DynamicConfiguration.Data.Service
                 {
                     using (var db = new LiteDatabase(ConnectionString))
                     {
-                        var customers = db.GetCollection<DynamicConfig>("configs");
+                        var configs = db.GetCollection<DynamicConfig>("configs");
                         dynamicConfiguration.Id = Guid.NewGuid();
-                        customers.Insert(dynamicConfiguration);
+                        configs.Insert(dynamicConfiguration);
                         return true;
                     }
                 }
@@ -44,8 +44,8 @@ namespace DynamicConfiguration.Data.Service
                 {
                     using (var db = new LiteDatabase(ConnectionString))
                     {
-                        var customers = db.GetCollection<DynamicConfig>("configs");
-                        return customers.FindOne(i => i.Name == name);
+                        var configs = db.GetCollection<DynamicConfig>("configs");
+                        return configs.FindOne(i => i.Name == name);
                     }
                 }
                 catch (Exception e)
@@ -66,8 +66,8 @@ namespace DynamicConfiguration.Data.Service
             {
                 using (var db = new LiteDatabase(ConnectionString))
                 {
-                    var customers = db.GetCollection<DynamicConfig>("configs");
-                    return customers.FindAll();
+                    var configs = db.GetCollection<DynamicConfig>("configs");
+                    return configs.FindAll();
                 }
             }
             catch (Exception e)
@@ -85,8 +85,8 @@ namespace DynamicConfiguration.Data.Service
                 {
                     using (var db = new LiteDatabase(ConnectionString))
                     {
-                        var customers = db.GetCollection<DynamicConfig>("configs");
-                        customers.Delete(i => i.Name == name);
+                        var configs = db.GetCollection<DynamicConfig>("configs");
+                        configs.Delete(i => i.Name == name);
                         return true;
                     }
                 }
