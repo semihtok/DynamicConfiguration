@@ -3,7 +3,7 @@ Dynamic Configuration (α)
 
 Simple configuration management library for dotnet core applications. It uses embedded database (LiteDB) for keeping data at local path. For remote store it uses super fast Redis.
 
-![alt text](images/arch.png "Kafkaboard")
+![](Images/arch.png)
 
 How to use?
 ===========
