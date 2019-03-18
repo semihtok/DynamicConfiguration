@@ -1,0 +1,52 @@
+﻿version: "3.4"
+services:
+  redis:
+    image: redis
+    hostname: redis
+    command: ["redis-server", "--appendonly", "yes"]
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: always
+    container_name: redis
+  
+  service.a:
+    image: service-a
+    links:
+      - "redis:redis"
+    ports:
+      - 5010:80
+    build:
+      context: .
+      dockerfile: SERVICE-A/Dockerfile
+    depends_on:
+      - redis
+
+  service.b:
+    image: service-a
+    links:
+      - "redis:redis"
+    ports:
+      - 5020:80
+    build:
+      context: .
+      dockerfile: SERVICE-A/Dockerfile
+    depends_on:
+      - redis
+      
+  web-ui:
+    image: dynamicconfiguration:latest
+    links:
+      - "redis:redis"
+    ports:
+      - 5000:80
+    build:
+      context: .
+      dockerfile: DynamicConfiguration.UI/Dockerfile
+    depends_on:
+      - redis
+
+volumes:
+  redis-data:
+

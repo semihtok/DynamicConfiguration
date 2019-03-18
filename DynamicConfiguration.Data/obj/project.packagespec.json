@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj",
+    "projectName": "DynamicConfiguration.Data",
+    "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj",
+    "outputPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj": {
+            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "LiteDB": {
+          "target": "Package",
+          "version": "[4.1.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "ServiceStack.Redis.Core": {
+          "target": "Package",
+          "version": "[5.4.0, )"
+        },
+        "System.Runtime.Caching": {
+          "target": "Package",
+          "version": "[4.6.0-preview3.19128.7, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-A/SERVICE-A.csproj",
+    "projectName": "SERVICE-A",
+    "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-A/SERVICE-A.csproj",
+    "outputPath": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-A/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj": {
+            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj"
+          },
+          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj": {
+            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/DynamicConfiguration.Test.deps.json
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/DynamicConfiguration.Test.runtimeconfig.json
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/DynamicConfiguration.Test.runtimeconfig.dev.json
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/DynamicConfiguration.Test.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/bin/Debug/netcoreapp2.2/DynamicConfiguration.Test.pdb
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/obj/Debug/netcoreapp2.2/DynamicConfiguration.Test.csprojAssemblyReference.cache
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/obj/Debug/netcoreapp2.2/DynamicConfiguration.Test.csproj.CoreCompileInputs.cache
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/obj/Debug/netcoreapp2.2/DynamicConfiguration.Test.AssemblyInfoInputs.cache
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/obj/Debug/netcoreapp2.2/DynamicConfiguration.Test.AssemblyInfo.cs
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/obj/Debug/netcoreapp2.2/DynamicConfiguration.Test.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Test/obj/Debug/netcoreapp2.2/DynamicConfiguration.Test.pdb

@@ -1,0 +1,9 @@
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.deps.json
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.csprojAssemblyReference.cache
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.csproj.CoreCompileInputs.cache
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.AssemblyInfoInputs.cache
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.AssemblyInfo.cs
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll
+/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb

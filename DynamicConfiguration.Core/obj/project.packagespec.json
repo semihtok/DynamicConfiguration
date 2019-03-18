@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj",
+    "projectName": "DynamicConfiguration.Core",
+    "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj",
+    "outputPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj": {
+            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj"
+          },
+          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj": {
+            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "FluentScheduler": {
+          "target": "Package",
+          "version": "[5.3.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
