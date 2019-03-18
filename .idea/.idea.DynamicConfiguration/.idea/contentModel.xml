@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DynamicConfiguration.-969949725.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Applications" t="Include" />
+      <e p="docker-compose.yml" t="Include" />
+      <e p="DynamicConfiguration.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConfigurationReader.cs" t="Include" />
+        <e p="DynamicConfiguration.Core.csproj" t="IncludeRecursive" />
+        <e p="IConfigurationReader.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DynamicConfiguration.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DynamicConfiguration.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DynamicConfiguration.Data.csproj" t="IncludeRecursive" />
+        <e p="Factory" t="Include">
+          <e p="ConfigurationServiceFactory.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DynamicConfiguration.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Service" t="Include">
+          <e p="Abstract" t="Include">
+            <e p="ConfigurationServiceBase.cs" t="Include" />
+          </e>
+          <e p="Interface" t="Include">
+            <e p="IConfigService.cs" t="Include" />
+          </e>
+          <e p="LiteDbService.cs" t="Include" />
+          <e p="RedisConfigurationService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DynamicConfiguration.Data.Model" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DynamicConfig.cs" t="Include" />
+        <e p="DynamicConfiguration.Data.Model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DynamicConfiguration.Data.Model.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DynamicConfiguration.sln" t="IncludeFlat" />
+      <e p="DynamicConfiguration.UI" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClientApp" t="Include">
+          <e p=".gitignore" t="Include" />
+          <e p="node_modules" t="ExcludeRecursive">
+            <e p="ajv" t="IncludeRecursive" />
+            <e p="babel-eslint" t="IncludeRecursive" />
+            <e p="bootstrap" t="IncludeRecursive" />
+            <e p="cross-env" t="IncludeRecursive" />
+            <e p="eslint" t="IncludeRecursive" />
+            <e p="eslint-config-react-app" t="IncludeRecursive" />
+            <e p="eslint-plugin-flowtype" t="IncludeRecursive" />
+            <e p="eslint-plugin-import" t="IncludeRecursive" />
+            <e p="eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+            <e p="eslint-plugin-react" t="IncludeRecursive" />
+            <e p="jquery" t="IncludeRecursive" />
+            <e p="react" t="IncludeRecursive" />
+            <e p="react-dom" t="IncludeRecursive" />
+            <e p="react-router-bootstrap" t="IncludeRecursive" />
+            <e p="react-router-dom" t="IncludeRecursive" />
+            <e p="react-scripts" t="IncludeRecursive" />
+            <e p="reactstrap" t="IncludeRecursive" />
+            <e p="rimraf" t="IncludeRecursive" />
+          </e>
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="public" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="index.html" t="Include" />
+            <e p="manifest.json" t="Include" />
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="scss" t="Include">
+            <e p="custom.scss" t="Include" />
+          </e>
+          <e p="src" t="Include">
+            <e p="App.js" t="Include" />
+            <e p="App.test.js" t="Include" />
+            <e p="components" t="Include">
+              <e p="Add.js" t="Include" />
+              <e p="Edit.js" t="Include" />
+              <e p="Home.js" t="Include" />
+              <e p="Layout.js" t="Include" />
+              <e p="NavMenu.css" t="Include" />
+              <e p="NavMenu.js" t="Include" />
+            </e>
+            <e p="index.js" t="Include" />
+            <e p="registerServiceWorker.js" t="Include" />
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="DynamicConfigurationController.cs" t="Include" />
+        </e>
+        <e p="DynamicConfiguration.UI.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DynamicConfiguration.UI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SERVICE-A" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SERVICE-A.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="SERVICE-A.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="SERVICE-B" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SERVICE-B.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="SERVICE-B.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Solution Items" t="Include" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="856137dc-782e-4fb3-b5ed-43ce9cb22b8f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+              <folding>
+                <marker date="1552937229331" expanded="false" signature="6:231" ph="..." />
+                <marker date="1552937229331" expanded="true" signature="278:1395" ph="{...}" />
+                <marker date="1552937229331" expanded="true" signature="377:1393" ph="{...}" />
+                <marker date="1552937229331" expanded="true" signature="456:639" ph="{...}" />
+                <marker date="1552937229331" expanded="true" signature="740:918" ph="{...}" />
+                <marker date="1552937229331" expanded="true" signature="994:1138" ph="{...}" />
+                <marker date="1552937229331" expanded="true" signature="1240:1387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Edit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="138" column="71" selection-start-line="138" selection-start-column="71" selection-end-line="138" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <marker date="1552935513637" expanded="false" signature="6:64" ph="..." />
+                <marker date="1552935513637" expanded="true" signature="97:1170" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="202:1168" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="296:646" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="537:600" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="749:797" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="894:914" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="1026:1046" ph="{...}" />
+                <marker date="1552935513637" expanded="true" signature="1142:1162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="683">
+              <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+              <folding>
+                <marker date="1552938726671" expanded="true" signature="6:162" ph="..." />
+                <marker date="1552938726671" expanded="true" signature="207:4696" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="286:4694" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="460:644" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="570:634" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="709:1083" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="735:943" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="807:929" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="975:1041" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1146:1520" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1172:1385" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1244:1371" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1417:1483" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1587:1991" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1613:1857" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1685:1843" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="1889:1955" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2049:2390" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2075:2256" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2147:2242" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2288:2354" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2455:2988" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2532:2850" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2604:2836" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="2882:2978" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3029:3248" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3055:3150" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3180:3238" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3289:4688" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3398:4678" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3478:3675" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="3744:3936" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="4004:4194" ph="{...}" />
+                <marker date="1552938726671" expanded="true" signature="4262:4456" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <marker date="1552936014029" expanded="false" signature="6:214" ph="..." />
+                <marker date="1552936014029" expanded="true" signature="251:7864" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="313:7862" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="609:941" ph="/// ConfigurationReader is getting &amp; updating newest application configuration(s) from ... " />
+                <marker date="1552936014029" expanded="true" signature="1055:1656" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="1666:2030" ph="/// GetValue is getting data from local (litedb) storage. If it can't find ... " />
+                <marker date="1552936014029" expanded="true" signature="2071:3945" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="2097:3802" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="2243:3752" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="2455:3265" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="2606:3243" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="2760:2934" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="3407:3692" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="3483:3626" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="3834:3935" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="3955:4254" ph="/// Find is getting data from remote (redis) storage. After this ... " />
+                <marker date="1552936014029" expanded="true" signature="4292:5144" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="4418:4541" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="4894:5102" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="5154:5528" ph="/// ConfigJob is the definition of scheduled job of worker. ... " />
+                <marker date="1552936014029" expanded="true" signature="5618:6923" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="5770:6886" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="5993:6132" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="6525:6872" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="6654:6854" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="6933:7274" ph="/// ConfigJobWorker is the definition of scheduled worker. ... " />
+                <marker date="1552936014029" expanded="true" signature="7437:7856" ph="{...}" />
+                <marker date="1552936014029" expanded="true" signature="7586:7846" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SERVICE-A/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="61" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SERVICE-B/SERVICE-B.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="77" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="77" />
+              <folding>
+                <marker date="1552934683424" expanded="false" signature="6:161" ph="..." />
+                <marker date="1552934683424" expanded="true" signature="194:1267" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="299:1265" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="391:743" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="633:696" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="846:894" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="991:1011" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="1123:1143" ph="{...}" />
+                <marker date="1552934683424" expanded="true" signature="1239:1259" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>w</find>
+      <find>cache</find>
+      <find>searc</find>
+      <find>guid</find>
+      <find>input</find>
+      <find>map</find>
+      <find>param</find>
+      <find>edit</find>
+      <find>localhost:6379</find>
+      <find>redis</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F9A6BF9-CC47-4E04-95B6-4187B8F17D2C/ad/ef6d17bf/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-A/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Factory/ConfigurationServiceFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Interface/IConfigService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-B/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Core/IConfigurationReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data.Model/DynamicConfig.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data.Model/Class1.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Test/Class1.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Factories/ConfigurationServiceFactory.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/IConfigurationReader.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/ConfigurationReader.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/NavMenu.js" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Core/IConfigurationReader.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Consumer.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Core/Consumer.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Core/Job.cs" />
+        <option value="$PROJECT_DIR$/SERVICE-B/Startup.cs" />
+        <option value="$PROJECT_DIR$/SERVICE-B/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/SERVICE-B/appsettings.json" />
+        <option value="$PROJECT_DIR$/SERVICE-A/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/SERVICE-A/appsettings.json" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Core/TimedHostedService.cs" />
+        <option value="$PROJECT_DIR$/SERVICE-A/Startup.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ICacheService.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/CacheService.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data.Model/DynamicConfig.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Factory/ConfigurationServiceFactory.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/Interface/IConfigService.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Add.js" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/App.js" />
+        <option value="$PROJECT_DIR$/SERVICE-A/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/Startup.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/Dockerfile" />
+        <option value="$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Edit.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1136" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Applications" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Applications" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SERVICE-A" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Applications" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SERVICE-A" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Applications" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SERVICE-B" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution Items" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.Data" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="components" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.DynamicConfiguration.UI: IIS Express">
+    <configuration name="DynamicConfiguration.UI: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DynamicConfiguration.UI/DynamicConfiguration.UI.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="DynamicConfiguration.UI" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SERVICE-A: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SERVICE-A/SERVICE-A.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="SERVICE_A" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile.SERVICE-A: IIS Express" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856137dc-782e-4fb3-b5ed-43ce9cb22b8f" name="Default Changelist" comment="" />
+      <created>1552559019205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552559019205</updated>
+      <workItem from="1552559020464" duration="5096000" />
+      <workItem from="1552588395533" duration="14146000" />
+      <workItem from="1552630024348" duration="8768000" />
+      <workItem from="1552738774877" duration="24744000" />
+      <workItem from="1552889663278" duration="8246000" />
+      <workItem from="1552900598642" duration="25116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86116000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1136" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2087327" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.39559388" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32662836" />
+      <window_info anchor="bottom" id="Docker" order="8" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.26340997" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="TeamCity" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.37260535" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5005325" side_tool="true" weight="0.39846006" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3256705" />
+      <window_info anchor="bottom" id="REST Client" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="LaunchSettings">
+        <watch expression="cache.Get(dynamicConfiguration.Name)" language="C#" custom="RiderImportsList:" />
+        <watch expression="cacheService.GetConfig(key)" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cacheService.GetConfig(key)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cache.Get(dynamicConfiguration.Name)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cacheService.GetConfig(&quot;ConfigCache&quot;)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cacheService.GetConfig(&quot;&quot;)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!ActiveJobs.Contains(key)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Request.Body</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Request</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisService.GetAllConfig()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisService</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Test/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data.Model/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Test/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1552559386117" expanded="false" signature="6:26" ph="..." />
+            <marker date="1552559386117" expanded="true" signature="63:169" ph="{...}" />
+            <marker date="1552559386117" expanded="true" signature="92:167" ph="{...}" />
+            <marker date="1552559386117" expanded="true" signature="141:161" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/FetchData.js" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Consumer.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/Consumer.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/Job.cs" />
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1552637953689" expanded="false" signature="6:103" ph="..." />
+            <marker date="1552637953689" expanded="true" signature="1437:1520" ph="{...}" />
+            <marker date="1552637953689" expanded="true" signature="1437:1518" ph="{...}" />
+            <marker date="1552637953689" expanded="true" signature="525:588" ph="{...}" />
+            <marker date="1552637953689" expanded="true" signature="811:1032" ph="{...}" />
+            <marker date="1552637953689" expanded="true" signature="1437:1512" ph="{...}" />
+            <marker date="1552637953689" expanded="true" signature="1267:1344" ph="{...}" />
+            <marker date="1552637953689" expanded="true" signature="1361:1564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="209" selection-start-line="8" selection-start-column="209" selection-end-line="8" selection-end-column="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-A/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/TimedHostedService.cs" />
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/CacheService.cs" />
+    <entry file="file://$PROJECT_DIR$/SERVICE-A/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1552644504793" expanded="false" signature="6:267" ph="..." />
+            <marker date="1552644504793" expanded="true" signature="288:1426" ph="{...}" />
+            <marker date="1552644504793" expanded="true" signature="315:1424" ph="{...}" />
+            <marker date="1552644504793" expanded="true" signature="374:437" ph="{...}" />
+            <marker date="1552644504793" expanded="true" signature="660:810" ph="{...}" />
+            <marker date="1552644504793" expanded="true" signature="998:1418" ph="{...}" />
+            <marker date="1552644504793" expanded="true" signature="1045:1122" ph="{...}" />
+            <marker date="1552644504793" expanded="true" signature="1139:1342" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-A/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Factory/ConfigurationServiceFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1552861210051" expanded="false" signature="6:90" ph="..." />
+            <marker date="1552861210051" expanded="true" signature="182:557" ph="{...}" />
+            <marker date="1552861210051" expanded="true" signature="286:551" ph="{...}" />
+            <marker date="1552861210051" expanded="true" signature="382:516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Interface/IConfigService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding>
+            <marker date="1552865132298" expanded="false" signature="6:72" ph="..." />
+            <marker date="1552865132298" expanded="true" signature="127:445" ph="{...}" />
+            <marker date="1552865132298" expanded="true" signature="170:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="65" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="65" />
+          <folding>
+            <marker date="1552865875483" expanded="false" signature="6:151" ph="..." />
+            <marker date="1552865875483" expanded="true" signature="196:3102" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="203:280" ph="/// Necessary data operations for LiteDB ... " />
+            <marker date="1552865875483" expanded="true" signature="328:3100" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="559:1209" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="634:1037" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="724:1019" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="1073:1185" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="1271:1824" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="1346:1653" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="1436:1635" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="1689:1800" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="1842:1966" ph="/// Not locking operations because using by UI. ... " />
+            <marker date="1552865875483" expanded="true" signature="2032:2455" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2058:2318" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2140:2304" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2350:2445" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2511:3094" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2586:2922" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2676:2904" ph="{...}" />
+            <marker date="1552865875483" expanded="true" signature="2958:3070" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/NavMenu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F9A6BF9-CC47-4E04-95B6-4187B8F17D2C/ad/ef6d17bf/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <marker date="1552608317967" expanded="true" signature="0:360" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1552608317967" expanded="true" signature="431:2426" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="477:2424" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="759:1239" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1280:1360" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1296:1354" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1395:1470" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1411:1464" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1513:1585" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1529:1579" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1625:1701" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1641:1695" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1739:1817" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1755:1811" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="1884:2049" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="2087:2158" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="2103:2152" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="2206:2307" ph="{...}" />
+            <marker date="1552608317967" expanded="true" signature="2355:2420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/NavMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data.Model/DynamicConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1552850804908" expanded="false" signature="6:27" ph="..." />
+            <marker date="1552850804908" expanded="true" signature="70:476" ph="{...}" />
+            <marker date="1552850804908" expanded="true" signature="103:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1552571607366" expanded="false" signature="6:255" ph="..." />
+            <marker date="1552571607366" expanded="true" signature="290:617" ph="{...}" />
+            <marker date="1552571607366" expanded="true" signature="317:615" ph="{...}" />
+            <marker date="1552571607366" expanded="true" signature="370:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/IConfigurationReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1552596822354" expanded="true" signature="35:128" ph="{...}" />
+            <marker date="1552596822354" expanded="true" signature="79:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="83" column="74" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <marker date="1552919684180" expanded="false" signature="6:296" ph="..." />
+            <marker date="1552919684180" expanded="true" signature="331:2178" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="358:2176" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="417:480" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="703:1000" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="1188:2170" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="1235:1312" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="1329:1583" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="1728:1894" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="1927:2158" ph="{...}" />
+            <marker date="1552919684180" expanded="true" signature="2037:2144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/microsoft.aspnetcore.razor.design/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="117" column="52" lean-forward="true" selection-start-line="117" selection-start-column="52" selection-end-line="117" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/SERVICE-B.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="77" />
+          <folding>
+            <marker date="1552934683424" expanded="false" signature="6:161" ph="..." />
+            <marker date="1552934683424" expanded="true" signature="194:1267" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="299:1265" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="391:743" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="633:696" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="846:894" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="991:1011" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="1123:1143" ph="{...}" />
+            <marker date="1552934683424" expanded="true" signature="1239:1259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+          <folding>
+            <marker date="1552938726671" expanded="true" signature="6:162" ph="..." />
+            <marker date="1552938726671" expanded="true" signature="207:4696" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="286:4694" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="460:644" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="570:634" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="709:1083" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="735:943" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="807:929" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="975:1041" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1146:1520" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1172:1385" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1244:1371" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1417:1483" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1587:1991" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1613:1857" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1685:1843" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="1889:1955" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2049:2390" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2075:2256" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2147:2242" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2288:2354" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2455:2988" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2532:2850" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2604:2836" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="2882:2978" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3029:3248" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3055:3150" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3180:3238" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3289:4688" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3398:4678" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3478:3675" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="3744:3936" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="4004:4194" ph="{...}" />
+            <marker date="1552938726671" expanded="true" signature="4262:4456" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding>
+            <marker date="1552937229331" expanded="false" signature="6:231" ph="..." />
+            <marker date="1552937229331" expanded="true" signature="278:1395" ph="{...}" />
+            <marker date="1552937229331" expanded="true" signature="377:1393" ph="{...}" />
+            <marker date="1552937229331" expanded="true" signature="456:639" ph="{...}" />
+            <marker date="1552937229331" expanded="true" signature="740:918" ph="{...}" />
+            <marker date="1552937229331" expanded="true" signature="994:1138" ph="{...}" />
+            <marker date="1552937229331" expanded="true" signature="1240:1387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Edit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="71" selection-start-line="138" selection-start-column="71" selection-end-line="138" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <marker date="1552936014029" expanded="false" signature="6:214" ph="..." />
+            <marker date="1552936014029" expanded="true" signature="251:7864" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="313:7862" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="609:941" ph="/// ConfigurationReader is getting &amp; updating newest application configuration(s) from ... " />
+            <marker date="1552936014029" expanded="true" signature="1055:1656" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="1666:2030" ph="/// GetValue is getting data from local (litedb) storage. If it can't find ... " />
+            <marker date="1552936014029" expanded="true" signature="2071:3945" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="2097:3802" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="2243:3752" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="2455:3265" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="2606:3243" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="2760:2934" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="3407:3692" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="3483:3626" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="3834:3935" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="3955:4254" ph="/// Find is getting data from remote (redis) storage. After this ... " />
+            <marker date="1552936014029" expanded="true" signature="4292:5144" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="4418:4541" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="4894:5102" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="5154:5528" ph="/// ConfigJob is the definition of scheduled job of worker. ... " />
+            <marker date="1552936014029" expanded="true" signature="5618:6923" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="5770:6886" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="5993:6132" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="6525:6872" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="6654:6854" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="6933:7274" ph="/// ConfigJobWorker is the definition of scheduled worker. ... " />
+            <marker date="1552936014029" expanded="true" signature="7437:7856" ph="{...}" />
+            <marker date="1552936014029" expanded="true" signature="7586:7846" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-A/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1552935513637" expanded="false" signature="6:64" ph="..." />
+            <marker date="1552935513637" expanded="true" signature="97:1170" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="202:1168" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="296:646" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="537:600" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="749:797" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="894:914" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="1026:1046" ph="{...}" />
+            <marker date="1552935513637" expanded="true" signature="1142:1162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

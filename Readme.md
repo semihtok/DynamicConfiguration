@@ -3,7 +3,7 @@ Dynamic Configuration (α)
 
 Simple configuration management library for dotnet core applications. It uses embedded database (LiteDB) for keeping data at local path. For remote store it uses super fast Redis.
 
-![alt text](images/arch.png "Kafkaboard")
+![](Images/arch.png)
 
 How to use?
 ===========
@@ -24,8 +24,11 @@ var configValue = configurationManager.GetValue<string>("SiteName");
 
 ```
 
-**Docker Demo** : docker-compose up -d
+**Dashboard :**
 
+![](Images/dashboard.png)
+
+**Docker Demo** : docker-compose up -d
 
 ## Libraries used : 
 - LiteDB (http://www.litedb.org/)
