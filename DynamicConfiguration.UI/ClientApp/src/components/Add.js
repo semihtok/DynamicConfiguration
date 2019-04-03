@@ -36,7 +36,7 @@ export class Add extends Component {
             }
         });
 
-        xhr.open("POST", "api/DynamicConfiguration");
+        xhr.open("POST", "http://localhost:5003/api/DynamicConfiguration");
         xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
         xhr.setRequestHeader("cache-control", "no-cache");
 

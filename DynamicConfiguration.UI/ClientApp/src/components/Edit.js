@@ -73,7 +73,7 @@ export class Edit extends Component {
             }
         });
 
-        xhr.open("POST", "api/DynamicConfiguration/Update");
+        xhr.open("POST", "http://localhost:5003/api/DynamicConfiguration/Update");
         xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
         xhr.setRequestHeader("cache-control", "no-cache");
 
@@ -84,7 +84,7 @@ export class Edit extends Component {
 
     getData = () => {
 
-        fetch('api/DynamicConfiguration/GetOne?key=' + this.props.match.params.key)
+        fetch('http://localhost:5003/api/DynamicConfiguration/GetOne?key=' + this.props.match.params.key)
             .then(response => response.json())
             .then(data => {
                 console.log(data);

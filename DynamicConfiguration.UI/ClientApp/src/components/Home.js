@@ -23,9 +23,11 @@ export class Home extends Component {
 
     getData = () => {
 
-        fetch('api/DynamicConfiguration')
+        fetch('http://localhost:5003/api/DynamicConfiguration')
             .then(response => response.json())
             .then(data => {
+                
+                console.log(data);
                 this.setState({
                     configs: data,
                     searchString: data

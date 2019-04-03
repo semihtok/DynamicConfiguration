@@ -18,7 +18,7 @@ namespace DynamicConfiguration.UI.Controllers
         [HttpGet]
         public IEnumerable<DynamicConfig> Get()
         {
-            var redisService = new RedisConfigurationService("localhost:6379");
+            var redisService = new RedisConfigurationService("127.0.0.1:6379");
             var results = redisService.GetAllConfig();
             return results;
         }
@@ -27,7 +27,7 @@ namespace DynamicConfiguration.UI.Controllers
         [Route("GetOne")]
         public DynamicConfig GetOne(string key)
         {
-            var redisService = new RedisConfigurationService("localhost:6379");
+            var redisService = new RedisConfigurationService("127.0.0.1:6379");
             var result = redisService.GetOne(key);
             return result;
         }
@@ -36,7 +36,7 @@ namespace DynamicConfiguration.UI.Controllers
         [HttpPost]
         public void Post(DynamicConfig config)
         {
-            var redisService = new RedisConfigurationService("localhost:6379");
+            var redisService = new RedisConfigurationService("127.0.0.1:6379");
             redisService.AddConfig(config);
         }
        
@@ -44,7 +44,7 @@ namespace DynamicConfiguration.UI.Controllers
         [Route("Update")]
         public void Update(DynamicConfig config)
         {
-            var redisService = new RedisConfigurationService("localhost:6379");
+            var redisService = new RedisConfigurationService("127.0.0.1:6379");
             redisService.UpdateConfig(config);
         }
     }

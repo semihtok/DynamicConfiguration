@@ -19,6 +19,7 @@ namespace DynamicConfiguration.UI
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseUrls("http://*:5003")
                 .UseStartup<Startup>();
     }
 }
