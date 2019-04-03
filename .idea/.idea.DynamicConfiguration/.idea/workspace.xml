@@ -23,7 +23,96 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856137dc-782e-4fb3-b5ed-43ce9cb22b8f" name="Default Changelist" comment="" />
+    <list default="true" id="856137dc-782e-4fb3-b5ed-43ce9cb22b8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DynamicConfiguration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DynamicConfiguration/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DynamicConfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DynamicConfiguration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/DynamicConfiguration.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/DynamicConfiguration.Core.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/DynamicConfiguration.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/DynamicConfiguration.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/DynamicConfiguration.Data.Model.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/DynamicConfiguration.Data.Model.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/DynamicConfiguration.Data.Model.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/DynamicConfiguration.Data.Model.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data.Model/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/DynamicConfiguration.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/DynamicConfiguration.Data.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/DynamicConfiguration.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/DynamicConfiguration.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/SERVICE-A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/SERVICE-A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/SERVICE-A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/bin/Debug/netcoreapp2.2/SERVICE-A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/Debug/netcoreapp2.2/SERVICE-A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/SERVICE-A.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/SERVICE-A.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/SERVICE-A.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/SERVICE-A.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-A/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-A/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/SERVICE-B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/SERVICE-B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/SERVICE-B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/bin/Debug/netcoreapp2.2/SERVICE-B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/Debug/netcoreapp2.2/SERVICE-B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/SERVICE-B.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/SERVICE-B.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/SERVICE-B.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/SERVICE-B.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE-B/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SERVICE-B/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,190 +121,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-              <folding>
-                <marker date="1552937229331" expanded="false" signature="6:231" ph="..." />
-                <marker date="1552937229331" expanded="true" signature="278:1395" ph="{...}" />
-                <marker date="1552937229331" expanded="true" signature="377:1393" ph="{...}" />
-                <marker date="1552937229331" expanded="true" signature="456:639" ph="{...}" />
-                <marker date="1552937229331" expanded="true" signature="740:918" ph="{...}" />
-                <marker date="1552937229331" expanded="true" signature="994:1138" ph="{...}" />
-                <marker date="1552937229331" expanded="true" signature="1240:1387" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Edit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2070">
-              <caret line="138" column="71" selection-start-line="138" selection-start-column="71" selection-end-line="138" selection-end-column="71" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding>
-                <marker date="1552935513637" expanded="false" signature="6:64" ph="..." />
-                <marker date="1552935513637" expanded="true" signature="97:1170" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="202:1168" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="296:646" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="537:600" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="749:797" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="894:914" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="1026:1046" ph="{...}" />
-                <marker date="1552935513637" expanded="true" signature="1142:1162" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
-              <folding>
-                <marker date="1552938726671" expanded="true" signature="6:162" ph="..." />
-                <marker date="1552938726671" expanded="true" signature="207:4696" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="286:4694" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="460:644" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="570:634" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="709:1083" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="735:943" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="807:929" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="975:1041" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1146:1520" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1172:1385" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1244:1371" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1417:1483" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1587:1991" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1613:1857" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1685:1843" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="1889:1955" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2049:2390" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2075:2256" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2147:2242" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2288:2354" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2455:2988" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2532:2850" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2604:2836" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="2882:2978" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3029:3248" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3055:3150" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3180:3238" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3289:4688" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3398:4678" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3478:3675" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="3744:3936" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="4004:4194" ph="{...}" />
-                <marker date="1552938726671" expanded="true" signature="4262:4456" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="392">
+              <caret line="77" column="67" selection-start-line="77" selection-start-column="64" selection-end-line="77" selection-end-column="67" />
               <folding>
-                <marker date="1552936014029" expanded="false" signature="6:214" ph="..." />
-                <marker date="1552936014029" expanded="true" signature="251:7864" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="313:7862" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="609:941" ph="/// ConfigurationReader is getting &amp; updating newest application configuration(s) from ... " />
-                <marker date="1552936014029" expanded="true" signature="1055:1656" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="1666:2030" ph="/// GetValue is getting data from local (litedb) storage. If it can't find ... " />
-                <marker date="1552936014029" expanded="true" signature="2071:3945" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="2097:3802" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="2243:3752" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="2455:3265" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="2606:3243" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="2760:2934" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="3407:3692" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="3483:3626" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="3834:3935" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="3955:4254" ph="/// Find is getting data from remote (redis) storage. After this ... " />
-                <marker date="1552936014029" expanded="true" signature="4292:5144" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="4418:4541" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="4894:5102" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="5154:5528" ph="/// ConfigJob is the definition of scheduled job of worker. ... " />
-                <marker date="1552936014029" expanded="true" signature="5618:6923" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="5770:6886" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="5993:6132" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="6525:6872" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="6654:6854" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="6933:7274" ph="/// ConfigJobWorker is the definition of scheduled worker. ... " />
-                <marker date="1552936014029" expanded="true" signature="7437:7856" ph="{...}" />
-                <marker date="1552936014029" expanded="true" signature="7586:7846" ph="{...}" />
+                <marker date="1554281749945" expanded="false" signature="6:214" ph="..." />
+                <marker date="1554281749945" expanded="true" signature="251:7864" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="313:7862" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="609:941" ph="/// ConfigurationReader is getting &amp; updating newest application configuration(s) from ... " />
+                <marker date="1554281749945" expanded="true" signature="1055:1656" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="1666:2030" ph="/// GetValue is getting data from local (litedb) storage. If it can't find ... " />
+                <marker date="1554281749945" expanded="true" signature="2071:3945" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="2097:3802" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="2243:3752" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="2455:3265" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="2606:3243" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="2760:2934" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="3407:3692" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="3483:3626" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="3834:3935" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="3955:4254" ph="/// Find is getting data from remote (redis) storage. After this ... " />
+                <marker date="1554281749945" expanded="true" signature="4292:5144" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="4418:4541" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="4894:5102" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="5154:5528" ph="/// ConfigJob is the definition of scheduled job of worker. ... " />
+                <marker date="1554281749945" expanded="true" signature="5618:6923" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="5770:6886" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="5993:6132" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="6525:6872" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="6654:6854" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="6933:7274" ph="/// ConfigJobWorker is the definition of scheduled worker. ... " />
+                <marker date="1554281749945" expanded="true" signature="7437:7856" ph="{...}" />
+                <marker date="1554281749945" expanded="true" signature="7586:7846" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SERVICE-A/Dockerfile">
+        <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="61" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SERVICE-B/SERVICE-B.csproj">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="77" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="77" />
+            <state relative-caret-position="321">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
-                <marker date="1552934683424" expanded="false" signature="6:161" ph="..." />
-                <marker date="1552934683424" expanded="true" signature="194:1267" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="299:1265" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="391:743" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="633:696" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="846:894" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="991:1011" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="1123:1143" ph="{...}" />
-                <marker date="1552934683424" expanded="true" signature="1239:1259" ph="{...}" />
+                <marker date="1554282808236" expanded="false" signature="6:151" ph="..." />
+                <marker date="1554282808236" expanded="true" signature="196:2670" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="203:280" ph="/// Necessary data operations for LiteDB ... " />
+                <marker date="1554282808236" expanded="true" signature="328:2668" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="647:1161" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="722:989" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="1025:1137" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="1223:1648" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="1298:1477" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="1513:1624" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="1658:1782" ph="/// Not locking operations because using by UI. ... " />
+                <marker date="1554282808236" expanded="true" signature="1848:2155" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="1874:2018" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="2050:2145" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="2211:2662" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="2286:2490" ph="{...}" />
+                <marker date="1554282808236" expanded="true" signature="2526:2638" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -248,24 +215,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F9A6BF9-CC47-4E04-95B6-4187B8F17D2C/ad/ef6d17bf/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SERVICE-A/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Factory/ConfigurationServiceFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Interface/IConfigService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SERVICE-B/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Core/IConfigurationReader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F9A6BF9-CC47-4E04-95B6-4187B8F17D2C/89/336dfbaf/Convert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Factory/ConfigurationServiceFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Interface/IConfigService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F9A6BF9-CC47-4E04-95B6-4187B8F17D2C/ad/ef6d17bf/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data.Model/DynamicConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-A/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-B/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Core/IConfigurationReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -295,7 +262,6 @@
         <option value="$PROJECT_DIR$/DynamicConfiguration.Data.Model/DynamicConfig.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Factory/ConfigurationServiceFactory.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/Interface/IConfigService.cs" />
-        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Add.js" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/App.js" />
@@ -304,19 +270,21 @@
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/Startup.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/Dockerfile" />
         <option value="$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs" />
-        <option value="$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js" />
         <option value="$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Edit.js" />
+        <option value="$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="831" />
+    <option name="y" value="-1057" />
     <option name="width" value="1920" />
-    <option name="height" value="1136" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -327,6 +295,7 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -355,55 +324,12 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Applications" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SERVICE-B" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Solution Items" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
               <item name="DynamicConfiguration.Core" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DynamicConfiguration.Data" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DynamicConfiguration.Data" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Service" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
               <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DynamicConfiguration" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DynamicConfiguration.UI" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="components" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -416,7 +342,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -441,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.DynamicConfiguration.UI: IIS Express">
+  <component name="RunManager" selected=".NET Launch Settings Profile.SERVICE-A: IIS Express">
     <configuration name="DynamicConfiguration.UI: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DynamicConfiguration.UI/DynamicConfiguration.UI.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
@@ -486,11 +411,12 @@
       <workItem from="1552738774877" duration="24744000" />
       <workItem from="1552889663278" duration="8246000" />
       <workItem from="1552900598642" duration="25116000" />
+      <workItem from="1554281788447" duration="1274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86116000" />
+    <option name="totallyTimeSpent" value="87390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,18 +428,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1136" extended-state="6" />
-    <editor active="true" />
+    <frame x="831" y="-1057" width="1920" height="1057" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2087327" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21086262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.39559388" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.32746115" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" visible="true" weight="0.39481866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -524,8 +449,8 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.37260535" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5005325" side_tool="true" weight="0.39846006" />
-      <window_info anchor="bottom" id="Build" order="15" weight="0.3256705" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5005325" side_tool="true" weight="0.32746115" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3253886" />
       <window_info anchor="bottom" id="REST Client" order="16" />
       <window_info anchor="bottom" id="Messages" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -548,14 +473,60 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs" initialLine="32">
+            <startOffsets>
+              <option value="1064" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1085" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs</url>
+          <line>79</line>
+          <properties documentPath="$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" initialLine="79">
+            <startOffsets>
+              <option value="3381" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3407" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs</url>
+          <line>127</line>
+          <properties documentPath="$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" initialLine="127">
+            <startOffsets>
+              <option value="4974" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5011" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs" initialLine="77">
+            <startOffsets>
+              <option value="3310" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3359" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="LaunchSettings">
-        <watch expression="cache.Get(dynamicConfiguration.Name)" language="C#" custom="RiderImportsList:" />
-        <watch expression="cacheService.GetConfig(key)" language="C#" custom="RiderImportsList:" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -746,36 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="65" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="65" />
-          <folding>
-            <marker date="1552865875483" expanded="false" signature="6:151" ph="..." />
-            <marker date="1552865875483" expanded="true" signature="196:3102" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="203:280" ph="/// Necessary data operations for LiteDB ... " />
-            <marker date="1552865875483" expanded="true" signature="328:3100" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="559:1209" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="634:1037" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="724:1019" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="1073:1185" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="1271:1824" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="1346:1653" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="1436:1635" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="1689:1800" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="1842:1966" ph="/// Not locking operations because using by UI. ... " />
-            <marker date="1552865875483" expanded="true" signature="2032:2455" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2058:2318" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2140:2304" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2350:2445" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2511:3094" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2586:2922" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2676:2904" ph="{...}" />
-            <marker date="1552865875483" expanded="true" signature="2958:3070" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/Abstract/ConfigurationServiceBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -916,113 +857,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SERVICE-B/SERVICE-B.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="77" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="77" />
-          <folding>
-            <marker date="1552934683424" expanded="false" signature="6:161" ph="..." />
-            <marker date="1552934683424" expanded="true" signature="194:1267" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="299:1265" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="391:743" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="633:696" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="846:894" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="991:1011" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="1123:1143" ph="{...}" />
-            <marker date="1552934683424" expanded="true" signature="1239:1259" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
-          <folding>
-            <marker date="1552938726671" expanded="true" signature="6:162" ph="..." />
-            <marker date="1552938726671" expanded="true" signature="207:4696" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="286:4694" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="460:644" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="570:634" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="709:1083" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="735:943" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="807:929" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="975:1041" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1146:1520" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1172:1385" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1244:1371" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1417:1483" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1587:1991" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1613:1857" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1685:1843" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="1889:1955" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2049:2390" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2075:2256" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2147:2242" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2288:2354" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2455:2988" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2532:2850" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2604:2836" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="2882:2978" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3029:3248" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3055:3150" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3180:3238" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3289:4688" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3398:4678" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3478:3675" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="3744:3936" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="4004:4194" ph="{...}" />
-            <marker date="1552938726671" expanded="true" signature="4262:4456" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/Controllers/DynamicConfigurationController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="510">
           <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
           <folding>
-            <marker date="1552937229331" expanded="false" signature="6:231" ph="..." />
-            <marker date="1552937229331" expanded="true" signature="278:1395" ph="{...}" />
-            <marker date="1552937229331" expanded="true" signature="377:1393" ph="{...}" />
-            <marker date="1552937229331" expanded="true" signature="456:639" ph="{...}" />
-            <marker date="1552937229331" expanded="true" signature="740:918" ph="{...}" />
-            <marker date="1552937229331" expanded="true" signature="994:1138" ph="{...}" />
-            <marker date="1552937229331" expanded="true" signature="1240:1387" ph="{...}" />
+            <marker date="1554281749987" expanded="false" signature="6:231" ph="..." />
+            <marker date="1554281749987" expanded="true" signature="278:1395" ph="{...}" />
+            <marker date="1554281749987" expanded="true" signature="377:1393" ph="{...}" />
+            <marker date="1554281749987" expanded="true" signature="456:639" ph="{...}" />
+            <marker date="1554281749987" expanded="true" signature="740:918" ph="{...}" />
+            <marker date="1554281749987" expanded="true" signature="994:1138" ph="{...}" />
+            <marker date="1554281749987" expanded="true" signature="1240:1387" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Edit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
+        <state relative-caret-position="2055">
           <caret line="138" column="71" selection-start-line="138" selection-start-column="71" selection-end-line="138" selection-end-column="71" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -1030,39 +884,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs">
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.UI/ClientApp/src/components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="555">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
           <folding>
-            <marker date="1552936014029" expanded="false" signature="6:214" ph="..." />
-            <marker date="1552936014029" expanded="true" signature="251:7864" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="313:7862" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="609:941" ph="/// ConfigurationReader is getting &amp; updating newest application configuration(s) from ... " />
-            <marker date="1552936014029" expanded="true" signature="1055:1656" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="1666:2030" ph="/// GetValue is getting data from local (litedb) storage. If it can't find ... " />
-            <marker date="1552936014029" expanded="true" signature="2071:3945" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="2097:3802" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="2243:3752" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="2455:3265" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="2606:3243" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="2760:2934" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="3407:3692" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="3483:3626" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="3834:3935" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="3955:4254" ph="/// Find is getting data from remote (redis) storage. After this ... " />
-            <marker date="1552936014029" expanded="true" signature="4292:5144" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="4418:4541" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="4894:5102" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="5154:5528" ph="/// ConfigJob is the definition of scheduled job of worker. ... " />
-            <marker date="1552936014029" expanded="true" signature="5618:6923" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="5770:6886" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="5993:6132" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="6525:6872" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="6654:6854" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="6933:7274" ph="/// ConfigJobWorker is the definition of scheduled worker. ... " />
-            <marker date="1552936014029" expanded="true" signature="7437:7856" ph="{...}" />
-            <marker date="1552936014029" expanded="true" signature="7586:7846" ph="{...}" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1074,20 +901,150 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/SERVICE-B.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SERVICE-B/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/RedisConfigurationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+          <folding>
+            <marker date="1554281749963" expanded="false" signature="6:162" ph="..." />
+            <marker date="1554281749963" expanded="true" signature="207:4696" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="286:4694" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="460:644" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="570:634" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="709:1083" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="735:943" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="807:929" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="975:1041" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1146:1520" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1172:1385" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1244:1371" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1417:1483" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1587:1991" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1613:1857" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1685:1843" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="1889:1955" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2049:2390" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2075:2256" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2147:2242" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2288:2354" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2455:2988" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2532:2850" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2604:2836" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="2882:2978" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3029:3248" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3055:3150" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3180:3238" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3289:4688" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3398:4678" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3478:3675" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="3744:3936" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="4004:4194" ph="{...}" />
+            <marker date="1554281749963" expanded="true" signature="4262:4456" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SERVICE-A/Controllers/ValuesController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
-            <marker date="1552935513637" expanded="false" signature="6:64" ph="..." />
-            <marker date="1552935513637" expanded="true" signature="97:1170" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="202:1168" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="296:646" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="537:600" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="749:797" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="894:914" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="1026:1046" ph="{...}" />
-            <marker date="1552935513637" expanded="true" signature="1142:1162" ph="{...}" />
+            <marker date="1554281839095" expanded="false" signature="6:64" ph="..." />
+            <marker date="1554281839095" expanded="true" signature="97:1174" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="202:1172" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="296:650" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="541:604" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="753:801" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="898:918" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="1030:1050" ph="{...}" />
+            <marker date="1554281839095" expanded="true" signature="1146:1166" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F9A6BF9-CC47-4E04-95B6-4187B8F17D2C/89/336dfbaf/Convert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Data/Service/LiteDbService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1554282808236" expanded="false" signature="6:151" ph="..." />
+            <marker date="1554282808236" expanded="true" signature="196:2670" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="203:280" ph="/// Necessary data operations for LiteDB ... " />
+            <marker date="1554282808236" expanded="true" signature="328:2668" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="647:1161" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="722:989" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="1025:1137" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="1223:1648" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="1298:1477" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="1513:1624" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="1658:1782" ph="/// Not locking operations because using by UI. ... " />
+            <marker date="1554282808236" expanded="true" signature="1848:2155" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="1874:2018" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="2050:2145" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="2211:2662" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="2286:2490" ph="{...}" />
+            <marker date="1554282808236" expanded="true" signature="2526:2638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicConfiguration.Core/ConfigurationReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="77" column="67" selection-start-line="77" selection-start-column="64" selection-end-line="77" selection-end-column="67" />
+          <folding>
+            <marker date="1554281749945" expanded="false" signature="6:214" ph="..." />
+            <marker date="1554281749945" expanded="true" signature="251:7864" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="313:7862" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="609:941" ph="/// ConfigurationReader is getting &amp; updating newest application configuration(s) from ... " />
+            <marker date="1554281749945" expanded="true" signature="1055:1656" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="1666:2030" ph="/// GetValue is getting data from local (litedb) storage. If it can't find ... " />
+            <marker date="1554281749945" expanded="true" signature="2071:3945" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="2097:3802" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="2243:3752" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="2455:3265" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="2606:3243" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="2760:2934" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="3407:3692" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="3483:3626" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="3834:3935" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="3955:4254" ph="/// Find is getting data from remote (redis) storage. After this ... " />
+            <marker date="1554281749945" expanded="true" signature="4292:5144" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="4418:4541" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="4894:5102" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="5154:5528" ph="/// ConfigJob is the definition of scheduled job of worker. ... " />
+            <marker date="1554281749945" expanded="true" signature="5618:6923" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="5770:6886" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="5993:6132" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="6525:6872" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="6654:6854" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="6933:7274" ph="/// ConfigJobWorker is the definition of scheduled worker. ... " />
+            <marker date="1554281749945" expanded="true" signature="7437:7856" ph="{...}" />
+            <marker date="1554281749945" expanded="true" signature="7586:7846" ph="{...}" />
           </folding>
         </state>
       </provider>

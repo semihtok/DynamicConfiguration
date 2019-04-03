@@ -1307,11 +1307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj",
+      "projectUniqueName": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj",
       "projectName": "DynamicConfiguration.Data.Model",
-      "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj",
+      "projectPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data.Model/DynamicConfiguration.Data.Model.csproj",
       "packagesPath": "/Users/semih/.nuget/packages/",
-      "outputPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/",
+      "outputPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data.Model/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

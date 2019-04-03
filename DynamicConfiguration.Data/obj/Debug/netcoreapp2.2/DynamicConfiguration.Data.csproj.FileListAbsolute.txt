@@ -16,3 +16,15 @@
 /Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.CopyComplete
 /Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll
 /Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.deps.json
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csprojAssemblyReference.cache
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.CoreCompileInputs.cache
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.AssemblyInfoInputs.cache
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.AssemblyInfo.cs
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.csproj.CopyComplete
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/obj/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb

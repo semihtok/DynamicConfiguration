@@ -11,7 +11,7 @@ namespace SERVICE_A.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            var configurationManager = new ConfigurationReader("SERVICE-A", "redis:6379", 15000);
+            var configurationManager = new ConfigurationReader("SERVICE-A", "127.0.0.1:6379", 15000);
             var configValue = configurationManager.GetValue<string>("SiteName");
 
             if (string.IsNullOrEmpty(configValue))

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-A/SERVICE-A.csproj",
+    "projectUniqueName": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/SERVICE-A/SERVICE-A.csproj",
     "projectName": "SERVICE-A",
-    "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-A/SERVICE-A.csproj",
-    "outputPath": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-A/obj/",
+    "projectPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/SERVICE-A/SERVICE-A.csproj",
+    "outputPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/SERVICE-A/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj": {
-            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj"
+          "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj": {
+            "projectPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj"
           },
-          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj": {
-            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj"
+          "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj": {
+            "projectPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Data/DynamicConfiguration.Data.csproj"
           }
         }
       }

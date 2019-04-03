@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-B/SERVICE-B.csproj",
+    "projectUniqueName": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/SERVICE-B/SERVICE-B.csproj",
     "projectName": "SERVICE-B",
-    "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-B/SERVICE-B.csproj",
-    "outputPath": "/Users/semih/RiderProjects/DynamicConfiguration/SERVICE-B/obj/",
+    "projectPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/SERVICE-B/SERVICE-B.csproj",
+    "outputPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/SERVICE-B/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj": {
-            "projectPath": "/Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj"
+          "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj": {
+            "projectPath": "/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/DynamicConfiguration.Core.csproj"
           }
         }
       }

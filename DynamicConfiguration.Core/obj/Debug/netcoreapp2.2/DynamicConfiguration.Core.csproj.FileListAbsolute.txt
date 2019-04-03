@@ -16,3 +16,17 @@
 /Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.CopyComplete
 /Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll
 /Users/semih/RiderProjects/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.deps.json
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.Model.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/bin/Debug/netcoreapp2.2/DynamicConfiguration.Data.pdb
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csprojAssemblyReference.cache
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.CoreCompileInputs.cache
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.AssemblyInfoInputs.cache
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.AssemblyInfo.cs
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.csproj.CopyComplete
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.dll
+/Users/semih/Desktop/Development/Personal/Case/DynamicConfiguration/DynamicConfiguration.Core/obj/Debug/netcoreapp2.2/DynamicConfiguration.Core.pdb

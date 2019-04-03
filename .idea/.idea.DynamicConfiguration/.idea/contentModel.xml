@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DynamicConfiguration.-969949725.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Applications" t="Include" />
       <e p="docker-compose.yml" t="Include" />
@@ -65,6 +63,7 @@
           <e p=".gitignore" t="Include" />
           <e p="node_modules" t="ExcludeRecursive">
             <e p="ajv" t="IncludeRecursive" />
+            <e p="axios" t="IncludeRecursive" />
             <e p="babel-eslint" t="IncludeRecursive" />
             <e p="bootstrap" t="IncludeRecursive" />
             <e p="cross-env" t="IncludeRecursive" />
@@ -140,6 +139,7 @@
           <e p="ValuesController.cs" t="Include" />
         </e>
         <e p="Dockerfile" t="Include" />
+        <e p="fileconfig.db" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
@@ -178,5 +178,7 @@
       </e>
       <e p="Solution Items" t="Include" />
     </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DynamicConfiguration.1607113095.00" t="ExcludeRecursive" />
   </component>
 </project>

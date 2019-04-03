@@ -14,19 +14,19 @@ namespace DynamicConfiguration.Data.Service
         private const string ConnectionString = "Filename=fileconfig.db;Mode=Exclusive";
         private readonly object _asyncBlock = new object();
 
+        private static readonly LiteDatabase Db = new LiteDatabase(ConnectionString);
+
+
         public override bool AddConfig(DynamicConfig dynamicConfiguration)
         {
             lock (_asyncBlock)
             {
                 try
                 {
-                    using (var db = new LiteDatabase(ConnectionString))
-                    {
-                        var configs = db.GetCollection<DynamicConfig>("configs");
-                        dynamicConfiguration.Id = Guid.NewGuid();
-                        configs.Insert(dynamicConfiguration);
-                        return true;
-                    }
+                    var configs = Db.GetCollection<DynamicConfig>("configs");
+                    dynamicConfiguration.Id = Guid.NewGuid();
+                    configs.Insert(dynamicConfiguration);
+                    return true;
                 }
                 catch (Exception e)
                 {
@@ -42,11 +42,8 @@ namespace DynamicConfiguration.Data.Service
             {
                 try
                 {
-                    using (var db = new LiteDatabase(ConnectionString))
-                    {
-                        var configs = db.GetCollection<DynamicConfig>("configs");
-                        return configs.FindOne(i => i.Name == name);
-                    }
+                    var configs = Db.GetCollection<DynamicConfig>("configs");
+                    return configs.FindOne(i => i.Name == name);
                 }
                 catch (Exception e)
                 {
@@ -55,7 +52,7 @@ namespace DynamicConfiguration.Data.Service
                 }
             }
         }
-        
+
         /// <summary>
         /// Not locking operations because using by UI.
         /// </summary>
@@ -64,11 +61,8 @@ namespace DynamicConfiguration.Data.Service
         {
             try
             {
-                using (var db = new LiteDatabase(ConnectionString))
-                {
-                    var configs = db.GetCollection<DynamicConfig>("configs");
-                    return configs.FindAll();
-                }
+                var configs = Db.GetCollection<DynamicConfig>("configs");
+                return configs.FindAll();
             }
             catch (Exception e)
             {
@@ -83,12 +77,9 @@ namespace DynamicConfiguration.Data.Service
             {
                 try
                 {
-                    using (var db = new LiteDatabase(ConnectionString))
-                    {
-                        var configs = db.GetCollection<DynamicConfig>("configs");
-                        configs.Delete(i => i.Name == name);
-                        return true;
-                    }
+                    var configs = Db.GetCollection<DynamicConfig>("configs");
+                    configs.Delete(i => i.Name == name);
+                    return true;
                 }
                 catch (Exception e)
                 {

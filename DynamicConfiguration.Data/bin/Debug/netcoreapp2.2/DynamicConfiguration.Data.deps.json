@@ -11,10 +11,7 @@
           "DynamicConfiguration.Data.Model": "1.0.0",
           "LiteDB": "4.1.4",
           "ServiceStack.Redis.Core": "5.4.0",
-          "System.Runtime.Caching": "4.6.0-preview3.19128.7",
-          "Microsoft.Extensions.Caching.Abstractions": "2.2.0.0",
-          "Microsoft.Extensions.Caching.Memory": "2.2.0.0",
-          "Microsoft.Extensions.Hosting.Abstractions": "2.2.0.0"
+          "System.Runtime.Caching": "4.6.0-preview3.19128.7"
         },
         "runtime": {
           "DynamicConfiguration.Data.dll": {}
@@ -1006,30 +1003,6 @@
         "runtime": {
           "DynamicConfiguration.Data.Model.dll": {}
         }
-      },
-      "Microsoft.Extensions.Caching.Abstractions/2.2.0.0": {
-        "runtime": {
-          "Microsoft.Extensions.Caching.Abstractions.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.18315"
-          }
-        }
-      },
-      "Microsoft.Extensions.Caching.Memory/2.2.0.0": {
-        "runtime": {
-          "Microsoft.Extensions.Caching.Memory.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.18315"
-          }
-        }
-      },
-      "Microsoft.Extensions.Hosting.Abstractions/2.2.0.0": {
-        "runtime": {
-          "Microsoft.Extensions.Hosting.Abstractions.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.18316"
-          }
-        }
       }
     }
   },
@@ -1643,21 +1616,6 @@
     },
     "DynamicConfiguration.Data.Model/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Caching.Abstractions/2.2.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Caching.Memory/2.2.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Hosting.Abstractions/2.2.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

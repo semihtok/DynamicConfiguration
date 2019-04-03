@@ -75,7 +75,7 @@ namespace DynamicConfiguration.Core
                     }, _cancellationToken);
 
 
-                    var currentConfig = liteDbService.GetConfig(key);
+                    var currentConfig = liteDbService.GetConfig(ApplicationName  +"." + key);
 
                     if (currentConfig != null)
                     {
